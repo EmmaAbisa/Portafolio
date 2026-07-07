@@ -57,7 +57,7 @@ El portafolio tiene un menú de navegación con las siguientes secciones:
 
 ## Ver en vivo
 
- GitHub Pages: [*(pega aquí el link cuando lo actives)*](https://emmaabisa.github.io/Portafolio/)
+ GitHub Pages: https://emmaabisa.github.io/Portafolio/
  Repositorio: [https://github.com/EmmaAbisa/Portafolio](https://github.com/EmmaAbisa/Portafolio)
 
 ---
