@@ -1,18 +1,18 @@
-# 🚀 Mi Portafolio - Emmanuel Abisai
+# Mi Portafolio - Emmanuel Abisai
 
 ¡Hola! Este es mi portafolio personal, hecho como estudiante de Ingeniería en Sistemas Computacionales del Instituto Tecnológico de Oaxaca. Aquí muestro un poco de quién soy, mis habilidades y algunos proyectos (reales y otros que quiero hacer próximamente).
 
-![alt text](Puno.png)
-![alt text](Pdos.png)
+![alt text](image.png)
+![alt text](image-1.png)
 
 ---
 
-## 📋 Descripción del proyecto
+## Descripción del proyecto
 
 Este portafolio está construido con **HTML, CSS y JavaScript**, usando **Tailwind CSS** como framework de estilos (vía CDN).
 
 La plantilla base que usé fue **Eliana Portfolio Template**, la pueden descargar aquí:
-🔗 [https://prebuiltui.com/react-templates/eliana-portfolio-template](https://prebuiltui.com/react-templates/eliana-portfolio-template)
+ [https://prebuiltui.com/react-templates/eliana-portfolio-template](https://prebuiltui.com/react-templates/eliana-portfolio-template)
 
 ### Secciones del portafolio
 
@@ -26,11 +26,11 @@ El portafolio tiene un menú de navegación con las siguientes secciones:
 
 ---
 
-## 🛠️ Proceso de creación
+## Proceso de creación
 
 1. Descargué la plantilla **Eliana Portfolio Template** desde PrebuiltUI.
 2. Como la plantilla original venía pensada para React, adapté todo el maquetado a **HTML + Tailwind CSS puro**, sin usar ningún framework de JavaScript.
-3. Organicé el proyecto en carpetas: `css/`, `js/` e `img/`, tal como lo pide la tarea.
+3. Organicé el proyecto en carpetas: `css/`, `js/` e `img/`, tal como se nota en el Repositorio.
 4. Cambié el logo por mi nombre en texto ("Emmanuel.") en vez de usar una imagen de logo.
 5. Cambié el texto de presentación ("Hi! I'm...") por uno personalizado en español.
 6. Actualicé la foto de perfil por una mía, real y profesional (no genérica ni de stock).
@@ -41,41 +41,23 @@ El portafolio tiene un menú de navegación con las siguientes secciones:
 
 ---
 
-## 📸 Capturas de pantalla
+## Capturas de pantalla
 
-<!-- 📸 AQUÍ VA LA CAPTURA DE LA SECCIÓN "SOBRE MÍ" -->
+![alt text](image-2.png)
 
-<!-- 📸 AQUÍ VA LA CAPTURA DE LA SECCIÓN "SERVICIOS / HABILIDADES" -->
+![alt text](image-3.png)
 
-<!-- 📸 AQUÍ VA LA CAPTURA DE LA SECCIÓN "MI TRABAJO / PROYECTOS" -->
+![alt text](image-4.png)
 
-<!-- 📸 AQUÍ VA LA CAPTURA DE LA SECCIÓN "CONTACTO" -->
+![alt text](image-5.png)
 
-<!-- 📸 AQUÍ VA LA CAPTURA DEL MODO OSCURO (opcional, pero se ve bien) -->
-
----
-
-## 🌐 Ver en vivo
-
-🔗 GitHub Pages: *(pega aquí el link cuando lo actives)*
-🔗 Repositorio: [https://github.com/EmmaAbisa/Portafolio](https://github.com/EmmaAbisa/Portafolio)
+![alt text](image-6.png)
 
 ---
 
-## 📁 Estructura del proyecto
+## Ver en vivo
 
-```
-Portafolio/
-├── README.md
-├── index.html
-├── css/
-│   └── portafolio.css
-├── js/
-│   └── portafolio.js
-└── img/
-    └── (imágenes e iconos usados en el portafolio)
-```
+ GitHub Pages: [*(pega aquí el link cuando lo actives)*](https://emmaabisa.github.io/Portafolio/)
+ Repositorio: [https://github.com/EmmaAbisa/Portafolio](https://github.com/EmmaAbisa/Portafolio)
 
 ---
-
-Hecho con 💜 por Emmanuel Abisai
